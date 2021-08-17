@@ -11,8 +11,4 @@
       return  "You are a Farthead!"
     };
   }
-
-
-
-  
 })();
